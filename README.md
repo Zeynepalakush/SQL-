@@ -1,3 +1,3 @@
 # SQL
 
-select*from satış müşteri tablosu where fiyat>50
+select*from müşteri satış tablosu where fiyat>50
